@@ -1,0 +1,28 @@
+# Logs
+cafebook-frontend/logs
+cafebook-frontend/*.log
+cafebook-frontend/npm-debug.log*
+cafebook-frontend/yarn-debug.log*
+cafebook-frontend/yarn-error.log*
+cafebook-frontend/pnpm-debug.log*
+cafebook-frontend/lerna-debug.log*
+
+cafebook-frontend/node_modules
+cafebook-frontend/dist
+cafebook-frontend/dist-ssr
+cafebook-frontend/*.local
+
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+cafebook-backend/.env
+cafebook-frontend/.env
